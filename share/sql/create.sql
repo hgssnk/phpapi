@@ -1,0 +1,5 @@
+CREATE DATABASE mydb;
+CREATE TABLE mydb.user (
+  userid INT(6) AUTO_INCREMENT PRIMARY KEY,
+  username VARCHAR(30) NOT NULL
+);

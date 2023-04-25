@@ -1,0 +1,4 @@
+INSERT INTO mydb.user VALUE (NULL, "HGOE1");
+INSERT INTO mydb.user VALUE (NULL, "HGOE2");
+INSERT INTO mydb.user VALUE (NULL, "HGOE3");
+INSERT INTO mydb.user VALUE (NULL, "HGOE4");
